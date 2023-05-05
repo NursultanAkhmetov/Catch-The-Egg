@@ -25,8 +25,8 @@ To install Pygame, use the following command in your terminal:
 pip3 install pygame
 
 ### Installing Google Sheets API
-To install Google Sheets API read the following documentation: https://developers.google.com/sheets/api/quickstart/python
-You may also watch the following youtube video to get started with Google Sheets API: https://www.youtube.com/watch?v=4ssigWmExak
+To install Google Sheets API, use the following command in your terminal:
+pip3 install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
 
 ### Starting the game
 To start the game, navigate to the root folder of the game in your terminal and run the following command:
