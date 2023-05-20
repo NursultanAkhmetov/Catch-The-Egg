@@ -16,6 +16,10 @@ pip3 install pygame
 To install Google Sheets API, use the following command in your terminal:
 pip3 install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
 
+### Installing PyAutoGUI
+To install PyAutoGUI, use the following command in your terminal:
+pip3 install pyautogui
+
 ### Starting the game
 To start the game, navigate to the root folder of the game in your terminal and run the following command:
 python main.py
